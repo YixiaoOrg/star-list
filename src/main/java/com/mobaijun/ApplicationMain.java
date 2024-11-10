@@ -48,7 +48,7 @@ public class ApplicationMain {
     }
 
     public static void main(String[] args) {
-        String username = "mobaijun";
+        String username = "yixiaoorg";
         StrBuilder sb = new StrBuilder();
         // 标题
         sb.append("# ").append(username).append(" Starred Repositories\n\n");
